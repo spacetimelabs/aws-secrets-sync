@@ -1,0 +1,10 @@
+*.py[cod]
+
+# Packages
+*.egg
+*.egg-info
+build
+eggs
+develop-eggs
+.installed.cfg
+dist
